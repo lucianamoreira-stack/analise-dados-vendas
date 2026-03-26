@@ -1,0 +1,8 @@
+Neste projeto, os dados foram organizados em formato CSV e analisados utilizando consultas SQL.
+
+O objetivo foi simular um cenário real de vendas, onde é possível identificar padrões de consumo e gerar insights para tomada de decisão.
+
+As consultas incluem:
+- Análise de clientes
+- Análise de produtos
+- Faturamento total
